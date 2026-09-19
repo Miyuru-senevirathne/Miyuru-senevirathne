@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Miyuru 👋
 
-<!--
-**Miyuru-senevirathne/Miyuru-senevirathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Cloud & AI Engineer** from Sri Lanka 🇱🇰, currently building my foundations in software development, cloud computing, and automation.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Improving my Python and problem-solving skills
+- ☁️ Learning AWS and cloud technologies
+- 🧠 Studying algorithms and computer science fundamentals
+- 🛠️ Building projects to turn what I learn into practical skills
+- 🤖 Exploring AI and automation
+
+## 💻 Technologies
+
+- Python
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- MySQL
+- AWS — currently learning
+
+## 🎯 Current Goal
+
+Build strong software engineering and cloud foundations while creating real-world projects and preparing for my first opportunities in tech.
+
+## 📫 Connect with me
+
+- LinkedIn: [Miyuru Senevirathne](www.linkedin.com/in/miyuru-senevirathne)
